@@ -1,0 +1,6 @@
+Steps to run the test cases:
+1. Navigate to the below location
+   src/test/java/pruAssignment
+2. You would find a folder called "TestRunner.java"
+3. Open the file and right click on it
+4. Go to option Run As -> JUnit Test
